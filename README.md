@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on MLOps pipelines and AI-powered applications using AWS, Terraform, and Docker<br><br>👯 I'm looking to collaborate on DataOps, MLOps, and open-source infrastructure-as-code projects<br><br>🤝 I'm looking for help with scaling ML model serving and platform engineering best practices<br><br>🌱 I'm currently learning LangChain, advanced Terraform patterns, and Kubernetes<br><br>💬 Ask me about dbt, Snowflake, Terraform, GitHub Actions CI/CD, Prometheus & Grafana, or deploying YOLO models to AWS<br><br>⚡ Fun fact I built a full object detection platform from scratch — infrastructure, CI/CD, monitoring, and all — in a single bootcamp sprint
+🔭 I'm currently working on MLOps pipelines and AI-powered applications using AWS, Terraform, and Docker<br><br>👯 I'm looking to collaborate on DataOps, MLOps, and open-source infrastructure-as-code projects<br><br>🤝 I'm looking for help with scaling ML model serving and platform engineering best practices<br><br>🌱 I'm currently learning LangChain, advanced Terraform patterns, and Kubernetes<br><br>💬 Ask me about dbt, Snowflake, Terraform, GitHub Actions CI/CD, Prometheus & Grafana, or deploying YOLO models to AWS<br><br>⚡ 
 
 
 # 💻 Tech Stack:
